@@ -5,7 +5,6 @@ console.log('working');
 // Create the map object with a center and zoom level.
 
 
-// changing setview to center over SFO
 let map = L.map('mapid').setView([38.4449,-96.064453125],5);
 
 //line variable comprised of coordinates:
